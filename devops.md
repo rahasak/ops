@@ -11,4 +11,5 @@ phone no's to ops service. ops service validate them and send response back to d
 
 dev and ops services needs to communicate via `kafka`. dev service sends phone no to ops service(via kafka).
 ops service validates phone no and send response back to dev service(via kafka). Develop dev and ops service
-with any language(`golang/scala/python` would be prefer). Try to integrate these services with `docker`
+with any language(`golang/scala/python` would be prefer). Try to integrate these services with `docker`. 
+Publish the service source codes in github.
