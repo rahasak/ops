@@ -1,4 +1,4 @@
-# happy Ops
+# oOps
 
 We do research but not satisfy only with publication :). We build products based on our 
 researches and take them to the market. Following are the research areas.
