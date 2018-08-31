@@ -39,7 +39,7 @@ We use open source tools, do devOps and continuous delivery
 17. Android		
 18. IoS			
 19. Contik
-20. LPWAN/
+20. LPWAN/LoRa
 21. Zigbee
 22. BLE	
 23. MQTT
